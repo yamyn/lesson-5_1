@@ -1,0 +1,12 @@
+Exercise 1
+
+Create a window application in JavaFX
+It is necessary to draw a snowman based on the user's wishes. The snowman consists of circles.
+Each subsequent circle is above the previous one, touching it (!). If the circle is pushed to another circle, or there is a space between them, then the snowman is not correctly drawn. Radii of circles are randomized.
+Circle colors should be randomized.
+On the head of a snowman (the upper circle) from the circles should be drawn a nose and 2 eyes (less than the head).
+Circles on the body should be randomized. There is no sequence to decrease or increase.
+Data is entered via the console:
+     number of circles
+     min. radius of a circle
+     Max. radius of a circle
